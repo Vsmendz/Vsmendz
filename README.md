@@ -65,8 +65,6 @@
   <img alt="Linguagens utilizadas nos repositórios" src="./profile/top-langs.svg" height="170" />
 </p>
 
-<p align="center"><sub>Cards atualizados automaticamente por GitHub Actions. As imagens aparecem após a primeira execução do workflow.</sub></p>
-
 ---
 
 <p align="center">💡 Sempre aprendendo, construindo e evoluindo como desenvolvedor.</p>
