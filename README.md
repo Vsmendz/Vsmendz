@@ -2,14 +2,18 @@
   <a href="https://github.com/Vsmendz?tab=repositories"><img alt="Meus repositórios" src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/devinit/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:viniciusdsmendzz@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Contato-E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>👨‍💻 Sobre mim
-- 🎓 Graduando em Ciência da Computação na UFMT — Campus do Araguaia (2024–2028).
+</p>
+<p>
+- 🎓 Graduando em Ciência da Computação na UFMT
+<p>
 - 💻 Foco em desenvolvimento backend com Java/Spring Boot, Python e C#/.NET.
+<p>
 - 🗄️ Interesse em APIs, lógica de negócio, integração de sistemas e bancos de dados relacionais.
+<p>
 - 🐧 Tenho experiência prática com Linux, Docker, redes e administração de servidores em laboratório próprio.
-- 🎯 Busco oportunidades de estágio em Desenvolvimento Backend ou Engenharia de Software.
-🛠️ Tecnologias
+<p>
 Linguagens para backend
+<p/>
 <p>
   <img alt="Java" title="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   &nbsp;
@@ -45,7 +49,7 @@ Outros conhecimentos
 - Homelab e servidores Linux: configuração e manutenção de serviços com Debian, Docker, CasaOS, DNS e acesso remoto, além de diagnóstico de problemas de rede.
 - Algoritmos e processamento de dados: projetos acadêmicos com Python, C e C++, estruturas de dados, ordenação e processamento digital de imagens.
 📁 Explore meus repositórios no GitHub
-📊 Atividade no GitHub
+<p align="center">📊 Atividade no GitHub<p/>
 <p align="center">
   <img alt="Estatísticas de Vinicius no GitHub" src="./profile/stats.svg" height="170" />
   <img alt="Linguagens utilizadas nos repositórios" src="./profile/top-langs.svg" height="170" />
